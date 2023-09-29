@@ -3,3 +3,4 @@ Chair:		https://skfb.ly/oLGZR
 Lamp:		https://skfb.ly/oLGZU
 Table:		https://skfb.ly/oLGZV
 Controller:	https://skfb.ly/oLGZW
+Sword:		https://skfb.ly/oLMXI
